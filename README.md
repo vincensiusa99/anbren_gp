@@ -2,6 +2,8 @@
 
 AnbrenGP is a Flutter application built as a MotoGP media companion. It delivers a polished branded experience with a splash transition, login screen, custom fonts, and rich background assets.
 
+Figma design: https://www.figma.com/design/5bVSbLRmmwkQAaq3neCWBi/anbrengp?node-id=14-43&t=iD5zfUlSd1L3zGPR-1
+
 ## Overview
 
 This project includes:
